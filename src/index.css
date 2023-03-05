@@ -1,0 +1,57 @@
+body {
+  margin: 2rem auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+#counter {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  border-bottom: 2px solid violet;
+  margin: auto;
+}
+
+#actions {
+  display: flex;
+  width: 200px;
+  margin: 2rem auto;
+}
+
+.btn {
+  margin: auto;
+  height: 50px;
+  width: 75px;
+  font-size: 25px;
+  color: violet;
+}
+
+.count-container {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  color: violet;
+}
+
+.header {
+  margin: auto 8rem;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+img.logo {
+  width: 100px;
+  height: 100px;
+}
+
+header {
+  display: flex;
+}
+
+h1.title {
+  margin: auto 0;
+}
